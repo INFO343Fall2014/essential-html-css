@@ -58,7 +58,6 @@ main {
 }
 
 header {
-	padding: 1em;
 	background-color: #FA5A0F;
 	border-bottom: 5px solid #EA4A0F;
 	color: #FFFFFF;	
@@ -68,10 +67,6 @@ header p {
 		font-size: 120%;
 		margin: 0;
 		color: #EEEEEE;
-}
-
-h1, footer, .About_Us {
-	padding: 1em;
 }
 
 menu {
@@ -85,3 +80,6 @@ footer {
 	text-align: right;
 }
 
+header, menu, section, .Information, footer {
+	padding: 1em;
+} 
