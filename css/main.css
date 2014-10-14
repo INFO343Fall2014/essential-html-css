@@ -80,6 +80,6 @@ footer {
 	text-align: right;
 }
 
-header, menu, section, .Information, footer {
+header, .menu, .section, .information, footer {
 	padding: 1em;
 } 
