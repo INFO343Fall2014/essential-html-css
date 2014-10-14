@@ -41,6 +41,7 @@ h1 {
 h2 {
 	font-size: 150%;
 	color: #505050;
+	margin: 0;
 }
 
 h3 {
@@ -69,8 +70,18 @@ header p {
 		color: #EEEEEE;
 }
 
-menu {
+.menu {
 	background: rgba(207, 205, 140, 0.5); 
+}
+
+.menu dt {
+	font-weight: 400;
+}
+
+.menu dd {
+	font-size: 80%;
+	margin-left: 1em;
+	margin-bottom: 1em; 
 }
 
 footer {
