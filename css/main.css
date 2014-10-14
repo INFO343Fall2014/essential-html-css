@@ -59,5 +59,29 @@ main {
 
 header {
 	padding: 1em;
-	background-color: 
+	background-color: #FA5A0F;
+	border-bottom: 5px solid #EA4A0F;
+	color: #FFFFFF;	
 }
+
+header p {
+		Font-size: 120%;
+		margin: 0;
+		color: #EEEEEE;
+}
+
+h1, footer, .About_Us {
+	padding: 1em;
+}
+
+menu {
+	background: rgba(207, 205, 140, 0.5); 
+}
+
+footer {
+	background-color: #FC892F;
+	border-top: 5px solid #EC791F;
+	font-size: 80%;
+	text-align: right;
+}
+
